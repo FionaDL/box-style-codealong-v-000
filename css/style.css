@@ -41,7 +41,9 @@ figcaption {
 
 /*////////// BACKGROUNDS //////////*/
 
-
+.white-wood {
+  background: url(../images/white-wood.jpg)
+}
 
 /*/////// MEDIA ////////*/
 
