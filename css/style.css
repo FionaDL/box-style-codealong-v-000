@@ -200,7 +200,7 @@ background: linear-gradient(to bottom,  rgba(0,0,0,1) 0%,rgba(71,71,71,1) 28%,rg
 
 #logo {
   padding: 84px 0 0;
-  
+
 }
 
 #logo h1 {
@@ -224,7 +224,9 @@ section {
 
 /*////////// DETAILS //////////*/
 
-
+#details {
+  border-top: 1px solid white
+}
 
 #details div {
   height: 221px;
@@ -245,3 +247,5 @@ section {
 }
 
 /*////////// FOOTER //////////*/
+
+
